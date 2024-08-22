@@ -1,0 +1,18 @@
+{
+  "files.associations": {
+    "any": "c",
+    "complex": "c",
+    "stdio.h": "c",
+    "graphics.h": "c",
+    "sprite_texture_utils.h": "c",
+    "player.h": "c",
+    "window_utils.h": "c",
+    "stdlib.h": "c",
+    "event_handling.h": "c",
+    "fight_view.h": "c",
+    "sword.h": "c",
+    "app.h": "c",
+    "decor.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
